@@ -1,5 +1,5 @@
 <p>
-<img src = "https://github.com/yashvasoya09/yashvasoya09/assets/120082183/4a3e7422-f091-44fc-b4f7-f37bbbac6406" height="50%"width="50%">
+<img src = "https://github.com/yashvasoya09/yashvasoya09/assets/120082183/4a3e7422-f091-44fc-b4f7-f37bbbac6406" height="100%"width="100%">
 </p>
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 <h1 align="center">Hi 👋, I'm Yash Vasoya</h1>
