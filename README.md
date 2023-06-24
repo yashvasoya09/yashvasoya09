@@ -1,38 +1,62 @@
-<h1 align="center">Hi 👋, I'm Yash Vasoya</h1>
-<h3 align="center">I Am Flutter Devloper!!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvasoya09&label=Profile%20views&color=0e75b6&style=flat" alt="yashvasoya09" /> </p>
+![Header](./github-header-image%20(1).png)
+<img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+<h1 align="center">Hi 👋, I'm Akhil Sodvadiya</h1>
+<h3 align="center">A passionate flutter development learner from India.</h3>
 
-- 🌱 I’m currently learning **FLutter Devlopment**
+# 💫 About Me:
 
-- 👨‍💻 All of my projects are available at [https://github.com/yashvasoya09](https://github.com/yashvasoya09)
 
-- 📝 I regularly write articles on [https://github.com/yashvasoya09](https://github.com/yashvasoya09)
+- 🔭 I’m currently Learning **Flutter Development**
 
-- 💬 Ask me about **flutter**
+- 🌱 I’m currently learning **Core Flutter**
 
-- 📫 How to reach me **yashvasoya197@gmail.com**
+- 👯 I’m looking to collaborate for **Application Devlopment**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yashvasoya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashvasoya09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yash-vasoya-343808258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-vasoya-343808258/" height="30" width="40" /></a>
-<a href="https://instagram.com/yashvasoya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashvasoya09" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yashvasoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yashvasoya" height="30" width="40" /></a>
-</p>
+- 🤝 I’m looking for help **Best Teachers and Best Learners**
 
-<p>
-<img align="right" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" height="50%"width="50%">
-</p>
+- 👨‍💻 All of my projects are available at [https://github.com/theAkHilsarkar18?tab=repositories](https://github.com/theAkHilsarkar18?tab=repositories)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+- 📝 I regularly write codes on [https://github.com/theAkHilsarkar18?tab=repositories](https://github.com/theAkHilsarkar18?tab=repositories)
+
+- 💬 Ask me about **C / C++ / Dart / Flutter Projects**
+
+- 📫 How to reach me **akhilsodvadiya@gmail.com**
+
+- 📄 Know about my experiences [GitHub](GitHub)
+
+- ⚡ Fun fact **I am Amazing !!**
+
+
+
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/yashvasoya09"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashvasoya09" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/theakhilsarkar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/theakhilsarkar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvasoya09&show_icons=true&locale=en&layout=compact" alt="yashvasoya09" /></p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theakhilsarkar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil-sodvadiya-2a1040257/) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashvasoya09&show_icons=true&locale=en" alt="yashvasoya09" /></p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvasoya09&" alt="yashvasoya09" /></p>
+#GitHub Award
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theakhilsarkar18" alt="theakhilsarkar18" /></a> </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=theAkHilsarkar18&theme=dark&hide_border=false)<br/>
+
+### ✍️ Dev. Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+[![](https://visitcount.itsvg.in/api?id=theAkHilsarkar18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theakhilsarkar18&show_icons=true&locale=en&layout=compact" alt="theakhilsarkar18" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theakhilsarkar18&show_icons=true&locale=en" alt="theakhilsarkar18" /></p>
+
+![logo](https://github.com/theAkHilsarkar18/theAkHilsarkar18/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
