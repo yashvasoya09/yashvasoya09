@@ -8,9 +8,7 @@
 
 
 - 🔭 I’m currently Learning **Flutter Development**
-
-- 🌱 I’m currently learning **Core Flutter**
-
+  
 - 👯 I’m looking to collaborate for **Application Devlopment**
 
 - 🤝 I’m looking for help **Best Teachers and Best Learners**
