@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashvasoya09?tab=repositories](https://github.com/yashvasoya09)
 
-- 📝 I regularly write codes on [https://github.com/theAkHilsarkar18?tab=repositories](https://github.com/theAkHilsarkar18?tab=repositories)
+- 📝 I regularly write codes on [https://github.com/theAkHilsarkar18?tab=repositories](https://github.com/yashvasoya09?tab=repositories)
 
 - 💬 Ask me about **C / C++ / Dart / Flutter Projects**
 
