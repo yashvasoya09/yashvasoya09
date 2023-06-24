@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvasoya09&label=Profile%20views&color=0e75b6&style=flat" alt="yashvasoya09" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashvasoya09" alt="yashvasoya09" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/yashvasoya09" target="blank"><img src="https://img.shields.io/twitter/follow/yashvasoya09?logo=twitter&style=for-the-badge" alt="yashvasoya09" /></a> </p>
-
 - 🌱 I’m currently learning **FLutter Devlopment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashvasoya09](https://github.com/yashvasoya09)
