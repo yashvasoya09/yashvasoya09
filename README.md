@@ -15,17 +15,15 @@
 
 - 🤝 I’m looking for help **Best Teachers and Best Learners**
 
-- 👨‍💻 All of my projects are available at [https://github.com/theAkHilsarkar18?tab=repositories](https://github.com/theAkHilsarkar18?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/yashvasoya09?tab=repositories](https://github.com/yashvasoya09)
 
 - 📝 I regularly write codes on [https://github.com/theAkHilsarkar18?tab=repositories](https://github.com/theAkHilsarkar18?tab=repositories)
 
 - 💬 Ask me about **C / C++ / Dart / Flutter Projects**
 
-- 📫 How to reach me **akhilsodvadiya@gmail.com**
+- 📫 How to reach me **yashvasoya197@gmail.com**
 
 - 📄 Know about my experiences [GitHub](GitHub)
-
-- ⚡ Fun fact **I am Amazing !!**
 
 
 
