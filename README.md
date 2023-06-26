@@ -1,7 +1,7 @@
 <p>
 <img src = "https://github.com/yashvasoya09/yashvasoya09/assets/120082183/ade8ff2f-122a-4b81-85d3-f18f491f7f2c" height="100%"width="100%">
 </p>
-<img align="right" alt="coding" width="450" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="450" src="https://github.com/yashvasoya09/yashvasoya09/assets/120082183/ab833147-0918-4d5b-925e-5f745de8f5fc">
 <h1 align="center">Hi 👋, I'm Yash Vasoya</h1>
 <h3 align="center">A passionate flutter development learner from India.</h3>
 
