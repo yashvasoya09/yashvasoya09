@@ -50,8 +50,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvasoya09&show_icons=true&locale=en&layout=compact" alt="theakhilsarkar18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvasoya09&show_icons=true&locale=en&layout=compact" alt="yashvasoya09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theakhilsarkar18&show_icons=true&locale=en" alt="theakhilsarkar18" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashvasoya09&show_icons=true&locale=en" alt="yashvasoya09" /></p>
 
-![logo](https://github.com/theAkHilsarkar18/theAkHilsarkar18/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
+![logo](https://github.com/yashvasoya09/yashvasoya09/blob/main/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67.png)
